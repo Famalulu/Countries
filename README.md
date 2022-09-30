@@ -5,7 +5,6 @@ This is an app that displaying countries with GeoDB Cities API. You can save cou
 ### Includings
 
 - ViewModel
-- ViewBinding
 - MVVM Architecture
 - Kotlin Coroutines
 - LiveData
